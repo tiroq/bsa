@@ -1,7 +1,7 @@
 # Budget Splitter Assistant
 
 <p align="center">
-    <img src="https://github.com/tiroq/bsa/blob/main/image.png?raw=true" width="50%" alt="Budget Splitter Assistant Bot">
+    <img src="https://github.com/tiroq/bsa/blob/main/logo.png?raw=true" width="50%" alt="Budget Splitter Assistant Bot">
 </p>
 
 A Telegram bot written in Go to split a budget based on user-defined categories.
